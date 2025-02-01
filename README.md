@@ -258,9 +258,5 @@ brother.style.filter = "drop-shadow(0 10px 20px #000000)";
 document.body.appendChild(brother);
 ```
 
-## **License**
 
-[**MIT License**](./resources/build/license)
-
-Copyright © 2017-2018 Geoffrey Mattie
 
